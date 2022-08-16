@@ -1,0 +1,4 @@
+"id","quantity","stockname","price","edit"
+1,3,"石鹸",200,NULL
+2,2,"洗剤",400,NULL
+3,5,"柔軟剤",400,NULL
